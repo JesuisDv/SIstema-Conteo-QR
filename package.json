@@ -1,0 +1,26 @@
+{
+  "name": "sistemaconteoqr",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "JFranco Systems",
+  "license": "ISC",
+  "description": "Programa de conteo de ingreso y salida por QR con registro diario.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JesuisDv/SIstema-Conteo-QR.git"
+  },
+  "bugs": {
+    "url": "https://github.com/JesuisDv/SIstema-Conteo-QR/issues"
+  },
+  "homepage": "https://github.com/JesuisDv/SIstema-Conteo-QR#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dayjs": "^1.11.13",
+    "express": "^5.1.0",
+    "sqlite3": "^5.1.7"
+  }
+}
